@@ -1,0 +1,6 @@
+{
+  "name": "CardioScan - Heart Disease Prediction",
+  "description": "Heart disease prediction and medical report analysis platform with Admin and User portals, dataset metrics, and instant risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
